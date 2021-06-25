@@ -1,4 +1,4 @@
-# Microservices using Spring Boot
+## Microservices using Spring Boot
 
 - Exposed two services User and Department
 - Service Registry (Spring Cloud Netflix Eureka Server)
