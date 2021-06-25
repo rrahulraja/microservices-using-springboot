@@ -1,6 +1,6 @@
 # Microservices using Spring Boot
 
-- Exposed two services User and Department service
+- Exposed two services User and Department
 - Service Registry
 - Cloud API Gateway
 - Hystrix Dashboard
